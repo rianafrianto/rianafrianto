@@ -5,9 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=rianafrianto&label=Profile%20views&color=0e75b6&style=flat" alt="rianafrianto" />
 </p>
 
-- 🌱 I’m currently diving into **Laravel** and **React Native**
+- 🌱 I’m currently diving into **Typescript**, **Laravel** and **React Native**.
 - 👨‍💻 Check out my projects at [https://rian-afrianto-dev.vercel.app/](https://rian-afrianto-dev.vercel.app/)
-- 💬 Feel free to ask me about **Web Development**
+- 💬 Feel free to ask me about **Fullstack Web Development**.
 - 📫 Reach me at **rianafrianto17@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
