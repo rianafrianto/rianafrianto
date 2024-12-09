@@ -90,11 +90,3 @@
   </a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rianafrianto&theme=radical&hide_border=true" alt="rianafrianto-streak" />
-</p>
-
-<p>
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=rianafrianto&theme=radical&no-frame=true" alt="rianafrianto-trophies" />
-</p>
