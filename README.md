@@ -6,7 +6,7 @@
 </p>
 
 - 🌱 I’m currently diving into **Typescript**, **React JS** and **Next JS**.
-- 👨‍💻 Check out my projects at [https://www.rianafrianto.tech](https://www.rianafrianto.tech)
+- 👨‍💻 Check out my projects at [https://www.rianafrianto.tech](https://www.rianafrianto.com)
 - 💬 Feel free to ask me about **Fullstack Web Development**.
 - 📫 Reach me at **rianafrianto17@gmail.com**
 
