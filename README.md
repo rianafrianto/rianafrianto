@@ -8,7 +8,7 @@
 - 🌱 I’m currently diving into **Typescript**, **React JS** and **Next JS**.
 - 👨‍💻 Check out my projects at [https://www.rianafrianto.com](https://www.rianafrianto.com)
 - 💬 Feel free to ask me about **Fullstack Web Development**.
-- 📫 Reach me at **rianafrianto17@gmail.com**
+- 📫 Reach me at **contact@rianafrianto.com / rianafrianto17@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
