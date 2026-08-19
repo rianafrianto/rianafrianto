@@ -96,16 +96,25 @@
 <h3 align="left">AI & Automation :</h3>
 <p align="left">
   <a href="https://claude.com/product/claude-code" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/claude/D97757" alt="claude code" width="40" height="40"/>
+    <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claudecode-color.svg" alt="claude code" width="40" height="40"/>
   </a>
   <a href="https://chatgpt.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/openai/412991" alt="chatgpt" width="40" height="40"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/openai.png" />
+      <img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/openai.png" alt="chatgpt" width="40" height="40"/>
+    </picture>
   </a>
   <a href="https://gemini.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="gemini" width="40" height="40"/>
+    <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/gemini-color.svg" alt="gemini" width="40" height="40"/>
+  </a>
+  <a href="https://nousresearch.com/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/hermesagent.png" />
+      <img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/hermesagent.png" alt="hermes" width="40" height="40"/>
+    </picture>
   </a>
   <a href="https://n8n.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" width="40" height="40"/>
+    <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/n8n-color.svg" alt="n8n" width="40" height="40"/>
   </a>
 </p>
 
